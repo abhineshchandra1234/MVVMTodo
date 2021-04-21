@@ -13,5 +13,6 @@
 - ViewModel && LiveData
 - Room
 - ViewBinding
+- Dagger & Hilt
 
 [Room Dependency Injection - MVVM To-Do List App with Flow and Architecture Components #4](https://youtu.be/eVsiefsFuoQ?t=678 "Named link title")
