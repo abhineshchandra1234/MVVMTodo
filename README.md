@@ -15,4 +15,4 @@
 - ViewBinding
 - Dagger & Hilt
 
-[Room Dependency Injection - MVVM To-Do List App with Flow and Architecture Components #4](https://youtu.be/eVsiefsFuoQ?t=678 "Named link title")
+[ListAdapter with View Binding - MVVM To-Do List App with Flow and Architecture Components #5](https://youtu.be/eLbgQYMGMm4 "Named link title")
